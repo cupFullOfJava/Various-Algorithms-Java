@@ -3,8 +3,7 @@
 This is sort of a catch-all for a variety of algorithms that I will be updating over the next few months.  It is intended to further my knowledge, as well as provide some examples to the community.
 
 Completed
-- Searching Algorithms
-Linear, Binary, Interpolation, Exponential, Ternary, Jump
+- Searching Algorithms: Linear, Binary, Interpolation, Exponential, Ternary, Jump
 
 
 For my own notes I intend to eventually implement:
