@@ -2,9 +2,12 @@
 
 This is sort of a catch-all for a variety of algorithms that I will be updating over the next few months.  It is intended to further my knowledge, as well as provide some examples to the community.
 
+Completed
+- Searching Algorithms
+Linear, Binary, Interpolation, Exponential, Ternary, Jump
+
 
 For my own notes I intend to eventually implement:
-- various searching algorithms
 - bfs and dfs
 - In place merge sort & heap sort with linear time heap building.
 - Breadth first traversals of graphs & trees. 
